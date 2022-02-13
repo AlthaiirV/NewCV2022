@@ -1,0 +1,1 @@
+This is a professional CV showcasing my work primarily as Front-End Developer, Designer and Virtual Assitant. From a template created by the people at Colorbid. 
